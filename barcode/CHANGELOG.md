@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.0.0
+
+- Rename package to `barcode_plus`
+- Support `qr` 4.0.0 (rewrite QR code generation for its new immutable `QrCode`/`QrPayload` API)
+- Require Dart SDK `>=3.11.0`
+
 ## 2.2.9
 
 - Implement POSTNET Barcode

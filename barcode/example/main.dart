@@ -2,7 +2,7 @@
 
 import 'dart:io';
 
-import 'package:barcode/barcode.dart';
+import 'package:barcode_plus/barcode_plus.dart';
 
 void buildBarcode(
   Barcode bc,

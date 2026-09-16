@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-import 'package:barcode/barcode.dart';
+import 'package:barcode_plus/barcode_plus.dart';
 import 'package:test/test.dart';
 
 void main() {

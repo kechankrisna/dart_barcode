@@ -14,8 +14,8 @@
  * limitations under the License.
  */
 
-import 'package:barcode/barcode.dart';
-import 'package:barcode/src/barcode_2d.dart';
+import 'package:barcode_plus/barcode_plus.dart';
+import 'package:barcode_plus/src/barcode_2d.dart';
 import 'package:test/test.dart';
 
 import 'golden_utils.dart';

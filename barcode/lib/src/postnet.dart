@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-import '../barcode.dart';
+import '../barcode_plus.dart';
 import 'barcode_hm.dart';
 import 'barcode_maps.dart';
 

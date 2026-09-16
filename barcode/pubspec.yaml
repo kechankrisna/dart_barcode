@@ -1,11 +1,11 @@
-name: barcode
+name: barcode_plus
 description: >-
   Barcode generation library for Dart that can generate
   generic drawing operations for any backend.
-homepage: https://github.com/DavBfr/dart_barcode/tree/master/barcode
-repository: https://github.com/DavBfr/dart_barcode
-issue_tracker: https://github.com/DavBfr/dart_barcode/issues
-version: 2.2.9
+homepage: https://github.com/kechankrisna/dart_barcode/tree/master/barcode
+repository: https://github.com/kechankrisna/dart_barcode
+issue_tracker: https://github.com/kechankrisna/dart_barcode/issues
+version: 3.0.0
 
 environment:
   sdk: '>=3.11.0 <4.0.0'

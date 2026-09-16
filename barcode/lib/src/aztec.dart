@@ -16,7 +16,7 @@
 
 import 'dart:typed_data';
 
-import '../barcode.dart';
+import '../barcode_plus.dart';
 import 'barcode_2d.dart';
 import 'barcode_exception.dart';
 import 'reedsolomon.dart';

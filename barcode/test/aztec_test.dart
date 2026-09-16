@@ -17,9 +17,9 @@
 import 'dart:convert';
 import 'dart:typed_data';
 
-import 'package:barcode/barcode.dart';
-import 'package:barcode/src/aztec.dart';
-import 'package:barcode/src/barcode_2d.dart';
+import 'package:barcode_plus/barcode_plus.dart';
+import 'package:barcode_plus/src/aztec.dart';
+import 'package:barcode_plus/src/barcode_2d.dart';
 import 'package:convert/convert.dart';
 import 'package:test/test.dart';
 
