@@ -8,6 +8,8 @@ analyzer:
     todo: ignore
     constant_identifier_names: ignore
     avoid_print: ignore
+  exclude:
+    - build/**
 
 linter:
   rules:

@@ -21,8 +21,8 @@ import 'package:barcode_image/barcode_image.dart';
 import 'package:file_selector/file_selector.dart';
 import 'package:flutter/material.dart';
 import 'package:image/image.dart' as im;
-import 'package:pdf/pdf.dart';
-import 'package:pdf/widgets.dart' as pw;
+import 'package:pdf_ce/pdf.dart';
+import 'package:pdf_ce/widgets.dart' as pw;
 
 import 'barcode_conf.dart';
 

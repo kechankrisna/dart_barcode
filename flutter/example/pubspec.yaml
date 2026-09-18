@@ -11,7 +11,7 @@ dependencies:
     sdk: flutter
 
 dependency_overrides:
-  barcode:
+  barcode_plus:
     path: ../../barcode
   barcode_widget:
     path: ../

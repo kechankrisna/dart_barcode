@@ -16,7 +16,7 @@
 
 import 'dart:typed_data';
 
-import 'package:barcode/barcode.dart';
+import 'package:barcode_plus/barcode_plus.dart';
 import 'package:image/image.dart';
 
 /// Store the width and height of a rendered text

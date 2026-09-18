@@ -4,7 +4,7 @@ version: 1.0.0+1
 publish_to: none
 
 environment:
-  sdk: ">=2.12.0 <4.0.0"
+  sdk: ">=3.12.0 <4.0.0"
   flutter: ">=3.10.0"
 
 dependencies:
@@ -16,13 +16,13 @@ dependencies:
   google_fonts:
   image: ^4.0.0
   path_provider:
-  pdf:
+  pdf_ce:
 
 dependency_overrides:
-  barcode:
-    path: ../barcode
   barcode_image:
     path: ../image
+  barcode_plus:
+    path: ../barcode
   barcode_widget:
     path: ../flutter
 

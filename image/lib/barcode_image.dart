@@ -14,6 +14,6 @@
  * limitations under the License.
  */
 
-export 'package:barcode/barcode.dart';
+export 'package:barcode_plus/barcode_plus.dart';
 
 export 'src/barcode.dart';

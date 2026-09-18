@@ -50,3 +50,6 @@ linux
 test
 README.md
 .metadata
+
+# FVM Version Cache
+.fvm/
